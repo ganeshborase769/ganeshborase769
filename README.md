@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ganesh Borse
 
-### 💻 MCA Student | Aspiring Frontend Developer | Python Developer
+### 💻 MCA Student | Aspiring Software Developer | Python Developer
 
 I am an MCA student passionate about building clean, responsive and user-friendly web applications.
 
@@ -11,7 +11,7 @@ I enjoy working with frontend technologies and Python, and I am continuously imp
 ## 🚀 About Me
 
 - 🎓 MCA Student
-- 💻 Aspiring Frontend Developer
+- 💻 Aspiring Software Developer
 - 🐍 Learning and building with Python
 - 🌐 Interested in Web Development
 - 📚 Continuously learning new technologies
