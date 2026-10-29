@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/ganesh-borse-803a0b394">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/ganeshborase769/ganesh-portfolio">
+  <a href="https://ganeshborase769.github.io/ganesh-portfolio">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=36BCF7" alt="Portfolio"/>
   </a>
 </p>
