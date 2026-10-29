@@ -150,7 +150,7 @@ A personal portfolio website showcasing my skills, projects, and development jou
 - Resume access
 - Contact section
 
-🔗 [Live Portfolio / Source Code](https://github.com/ganeshborase769/ganesh-portfolio)
+🔗 [Live Portfolio / Source Code](https://ganeshborase769.github.io/ganesh-portfolio)
 
 ---
 
@@ -212,7 +212,7 @@ I'm interested in connecting with developers, learning new technologies, and col
 <a href="https://www.linkedin.com/in/ganesh-borse-803a0b394">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/ganeshborase769/ganesh-portfolio">
+<a href="https://ganeshborase769.github.io/ganesh-portfolio">
   <img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
 </a>
 
