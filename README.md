@@ -1,63 +1,82 @@
+ <div align="center">
+
 # 👋 Hi, I'm Ganesh Borse
 
-### 💻 MCA Student | Aspiring Software Developer | Python Developer
+### MCA Student | Aspiring Software Developer
 
-I am an MCA student passionate about building clean, responsive and user-friendly web applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Ganesh+Borse+%7C+Software+Developer;React+%7C+JavaScript+%7C+Python;Building+Responsive+Web+Applications;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
 
-I enjoy working with frontend technologies and Python, and I am continuously improving my development skills by building practical projects.
+<p>
+  <a href="https://github.com/ganeshborase769">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ganesh-borse-803a0b394">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ganeshborase769/ganesh-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=36BCF7" alt="Portfolio"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=ganeshborase769&style=flat&color=36BCF7&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+
+Hi, I'm **Ganesh Borse**, an MCA student passionate about software development and building practical web applications.
+
+I enjoy creating responsive user interfaces, integrating APIs, and developing backend services using Python. I believe in learning by building projects and continuously improving my technical skills.
 
 - 🎓 MCA Student
 - 💻 Aspiring Software Developer
-- 🐍 Learning and building with Python
-- 🌐 Interested in Web Development
-- 📚 Continuously learning new technologies
-- 🚀 Building practical projects to improve my skills
+- 🌐 Frontend Development with HTML, CSS, JavaScript and React
+- 🐍 Python and FastAPI for backend development
+- 🗄️ Working with SQL and NoSQL databases
+- 🔧 Git and GitHub for version control
+- 🚀 Interested in building useful, real-world applications
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 🌐 Frontend
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+### Frontend Development
 
-### 💻 Programming
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&perline=5" alt="Frontend skills"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
+### Programming Languages
 
-### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java&perline=4" alt="Programming languages"/>
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+### Backend & Databases
 
-### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,postgres,mongodb,sqlite&perline=5" alt="Backend and databases"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&perline=4" alt="Development tools"/>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ganeshborase769&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshborase769&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+
+<br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=ganeshborase769&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
 
 ---
 
@@ -65,89 +84,142 @@ I enjoy working with frontend technologies and Python, and I am continuously imp
 
 ### 🏦 Loan Approval Prediction
 
-A full-stack web application that predicts loan approval based on applicant information.
+**Python | FastAPI | Scikit-learn | SQLite | HTML | CSS | JavaScript**
 
-**Tech:** Python, FastAPI, Scikit-learn, SQLite, HTML, CSS, JavaScript
+A web application that predicts loan approval based on applicant information using machine learning. It combines a user-friendly frontend with a backend prediction API.
 
-🔗 [View Project](https://github.com/ganeshborase769/loan-approval-prediction)
+- Applicant information-based predictions
+- FastAPI backend integration
+- Machine learning model
+- SQLite database
+
+🔗 [View Repository](https://github.com/ganeshborase769/loan-approval-prediction)
 
 ---
 
 ### 🎬 Movie Recommendation System
 
-A movie recommendation application that recommends movies based on user-selected movies and provides a personalized browsing experience.
+**Python | FastAPI | Streamlit | Scikit-learn | TMDB API | SQLite**
 
-**Tech:** Python, FastAPI, Streamlit, Scikit-learn, TMDB API
+A movie recommendation application that suggests movies based on user-selected titles and provides movie information, posters, and trailers.
 
-🔗 [View Project](#)
+- Movie recommendations using TF-IDF and cosine similarity
+- TMDB API integration
+- Movie posters, details and trailers
+- Backend API and database integration
+
+🔗 [View Repository](https://movie-recommendation-system-gilt-mu.vercel.app)
+
+---
+
+### 📰 News E-Paper Platform
+
+**React | Node.js | Express.js | MongoDB | PDF Processing | AI Integration**
+
+A digital newspaper platform designed to manage PDF uploads, extract news content, support article editing, and publish e-paper editions.
+
+- PDF upload and processing
+- AI-assisted news extraction
+- News and category management
+- Admin dashboard
+- Backend API integration
+- Digital e-paper viewing experience
+
+🔗 [View Repository](https://github.com/nikhilkeshavmali/news-e-paper-platform)
 
 ---
 
 ### 🌐 Pedkai Online Services
 
-A professional and responsive website developed for an online services business.
+**HTML | CSS | JavaScript**
 
-**Tech:** HTML, CSS, JavaScript
+A professional, responsive website for an online services business, designed with a clean layout and user-friendly navigation.
 
-🔗 [View Project](#)
-
----
-
-### 🏨 Hotel Management System
-
-A management application designed to handle hotel-related operations and information efficiently.
-
-**Tech:** HTML, CSS, JavaScript, Database
-
-🔗 [View Project](#)
+🔗 [View Repository](#)
 
 ---
 
-### 💼 Personal Portfolio
+### 💼 Personal Portfolio Website
 
-My personal portfolio website showcasing my skills, projects, education and development journey.
+**HTML | CSS | JavaScript**
 
-**Tech:** HTML, CSS, JavaScript
+A personal portfolio website showcasing my skills, projects, and development journey.
 
-🔗 [View Portfolio](#)
+- Responsive design
+- Project showcase
+- Resume access
+- Contact section
+
+🔗 [Live Portfolio / Source Code](https://github.com/ganeshborase769/ganesh-portfolio)
 
 ---
 
-## 📈 What I'm Currently Learning
+## 📚 Currently Learning
 
-- Advanced JavaScript
-- React.js
-- Frontend Development
-- Python Development
-- Backend Development
-- Database Management
+```text
+JavaScript Fundamentals
+        ↓
+React.js & Component-Based Development
+        ↓
+REST API Integration
+        ↓
+Python & FastAPI
+        ↓
+Database Management
+        ↓
+Full Stack Development
+```
+
+---
+
+## 🛠️ My Development Approach
+
+```text
+Understand the problem
+        ↓
+Plan the solution
+        ↓
+Build the user interface
+        ↓
+Develop the backend API
+        ↓
+Integrate the database
+        ↓
+Test and fix issues
+        ↓
+Improve the application
+```
+
+I focus on writing understandable code, learning from practical challenges, and building applications that solve real problems.
 
 ---
 
 ## 🎯 Career Goal
 
-My goal is to become a skilled **Frontend Developer** and build modern, responsive and user-friendly web applications.
+My goal is to become a skilled **Software Developer** who can build modern, reliable, and user-friendly applications. I am working toward strengthening my frontend and backend development skills through consistent learning and project development.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<p>
-  <a href="https://github.com/ganeshborase769">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<div align="center">
 
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
+I'm interested in connecting with developers, learning new technologies, and collaborating on meaningful software projects.
 
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/ganeshborase769">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/ganesh-borse-803a0b394">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/ganeshborase769/ganesh-portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+</a>
 
----
+<br/><br/>
+
+**⚡ Learn. Build. Improve. Repeat.**
 
 ⭐ Thanks for visiting my profile!
 
-**Feel free to explore my repositories and projects.**
+</div>
