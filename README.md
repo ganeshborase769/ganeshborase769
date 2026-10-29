@@ -64,19 +64,21 @@ I enjoy creating responsive user interfaces, integrating APIs, and developing ba
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ganeshborase769&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ganeshborase769&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshborase769&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ganeshborase769&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
-<br/>
+<br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=ganeshborase769&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=ganeshborase769&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
+
 
 ---
 
